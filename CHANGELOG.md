@@ -1,3 +1,10 @@
+x.x.x Release notes (yyyy-MM-dd)
+=============================================================
+
+### Enhancements
+
+* `RLMCollection` supports collection KVC operations.
+
 0.91.1 Release notes (2015-03-12)
 =============================================================
 
